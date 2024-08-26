@@ -1,4 +1,5 @@
 function inicia_jogo(){
+    alert("A peça branca começa!")
     vez = "branco"; //vez de quem jogar
     
     //muda a classe das pecas pretas(encima) para mostrar imgens das pecas
